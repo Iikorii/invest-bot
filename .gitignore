@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.cpython-*
+streamlit.log
+watchlist.json
+cik_map.json.tmp
